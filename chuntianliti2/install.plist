@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>   
+                              
+          <array>
+              <dict>
+                  <key>kind</key>
+                  <string>software-package</string>
+                  <key>url</key>
+                  <string>https://github.com/chuntianliti/ios/blob/master/chuntianliti2/%E6%98%A5%E7%94%B0%E7%AB%8B%E4%BD%93%E6%91%92%E5%9B%BE.ipa</string>
+              </dict> 
+                             
+              <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://github.com/chuntianliti/ios/blob/master/chuntianliti2/icon.jpg</string>
+                </dict>
+
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://github.com/chuntianliti/ios/blob/master/chuntianliti2/banner.jpg</string>
+                </dict>
+           </array>
+            
+            <key>metadata</key>
+            
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.chuntianliti.photoapp</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>春田立体</string>
+            </dict>
+            
+        </dict>
+    </array>
+</dict>
+</plist>
